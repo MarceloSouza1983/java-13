@@ -1,0 +1,94 @@
+)Você terá um desconto de 11% do INSS.
+)Você terá um desconto de 15% no IRPF.
+(======================================
+%   O desconto do INSS foi de R$5500
+%   O desconto do IRPF foi de R$6675
+(======================================
+'    Seu salário líquido é: R$37825
+'======================================
+
+)Você terá um desconto de 11% do INSS.
+*Você terá um desconto de 7,5% no IRPF.
+(======================================
+$   O desconto do INSS foi de R$440
+$   O desconto do IRPF foi de R$267
+(======================================
+&    Seu salário líquido é: R$3293
+'======================================
+
+(Você terá um desconto de 8% do INSS.
+*Você está ISENTO do pagamento de IRPF.
+(======================================
+$   O desconto do INSS foi de R$120
+"   O desconto do IRPF foi de R$0
+(======================================
+&    Seu salário líquido é: R$1380
+'======================================
+
+;O salário base informado é menor que o salário mínimo.
+ Calculos não serão efetuados.
+
+)Você terá um desconto de 11% do INSS.
+)Você terá um desconto de 15% no IRPF.
+(======================================
+$   O desconto do INSS foi de R$743
+$   O desconto do IRPF foi de R$901
+(======================================
+&    Seu salário líquido é: R$5106
+'======================================
+
+;O salário base informado é menor que o salário mínimo.
+ Calculos não serão efetuados.
+
+)Você terá um desconto de 11% do INSS.
+*Você terá um desconto de 7,5% no IRPF.
+(======================================
+$   O desconto do INSS foi de R$737
+$   O desconto do IRPF foi de R$447
+(======================================
+&    Seu salário líquido é: R$5516
+'======================================
+
+	)Você terá um desconto de 11% do INSS.
+	*Você terá um desconto de 7,5% no IRPF.
+	(======================================
+	$   O desconto do INSS foi de R$660
+	$   O desconto do IRPF foi de R$401
+	(======================================
+	&    Seu salário líquido é: R$4940
+	'======================================
+	
+
+;O salário base informado é menor que o salário mínimo.
+
+ Calculos não serão efetuados.
+
+
+(Você terá um desconto de 9% do INSS.
+*Você está ISENTO do pagamento de IRPF.
+(======================================
+$   O desconto do INSS foi de R$296
+"   O desconto do IRPF foi de R$0
+(======================================
+&    Seu salário líquido é: R$2994
+'======================================
+
+(Você terá um desconto de 9% do INSS.
+*Você está ISENTO do pagamento de IRPF.
+(======================================
+$   O desconto do INSS foi de R$296
+"   O desconto do IRPF foi de R$0
+(======================================
+&    Seu salário líquido é: R$2994
+'======================================
+
+(Você terá um desconto de 9% do INSS.
+*Você está ISENTO do pagamento de IRPF.
+(======================================
+$   O desconto do INSS foi de R$135
+"   O desconto do IRPF foi de R$0
+(======================================
+&    Seu salário líquido é: R$1365
+'======================================
+
+%Formato errado de dados. Até Logo!
